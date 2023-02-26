@@ -1,92 +1,176 @@
-# Portfolio CS7
+# Astro Starter Kit: Docs Site
 
-
-
-## Getting started
-
-To make it easy for you to get started with GitLab, here's a list of recommended next steps.
-
-Already a pro? Just edit this README.md and make it your own. Want to make it easy? [Use the template at the bottom](#editing-this-readme)!
-
-## Add your files
-
-- [ ] [Create](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#create-a-file) or [upload](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#upload-a-file) files
-- [ ] [Add files using the command line](https://docs.gitlab.com/ee/gitlab-basics/add-file.html#add-a-file-using-the-command-line) or push an existing Git repository with the following command:
-
-```
-cd existing_repo
-git remote add origin https://gitlab.com/angelovdev/portfolio-cs7.git
-git branch -M main
-git push -uf origin main
+```bash
+npm create astro@latest -- --template docs
 ```
 
-## Integrate with your tools
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/docs)
+[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/docs)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/docs/devcontainer.json)
 
-- [ ] [Set up project integrations](https://gitlab.com/angelovdev/portfolio-cs7/-/settings/integrations)
+> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
 
-## Collaborate with your team
+![docs](https://user-images.githubusercontent.com/4677417/186189283-0831b9ab-d6b9-485d-8955-3057e532ab31.png)
 
-- [ ] [Invite team members and collaborators](https://docs.gitlab.com/ee/user/project/members/)
-- [ ] [Create a new merge request](https://docs.gitlab.com/ee/user/project/merge_requests/creating_merge_requests.html)
-- [ ] [Automatically close issues from merge requests](https://docs.gitlab.com/ee/user/project/issues/managing_issues.html#closing-issues-automatically)
-- [ ] [Enable merge request approvals](https://docs.gitlab.com/ee/user/project/merge_requests/approvals/)
-- [ ] [Automatically merge when pipeline succeeds](https://docs.gitlab.com/ee/user/project/merge_requests/merge_when_pipeline_succeeds.html)
+## Features
 
-## Test and Deploy
+- ✅ **Full Markdown support**
+- ✅ **Responsive mobile-friendly design**
+- ✅ **Sidebar navigation**
+- ✅ **Search (powered by Algolia)**
+- ✅ **Multi-language i18n**
+- ✅ **Automatic table of contents**
+- ✅ **Automatic list of contributors**
+- ✅ (and, best of all) **dark mode**
 
-Use the built-in continuous integration in GitLab.
+## 🧞 Commands
 
-- [ ] [Get started with GitLab CI/CD](https://docs.gitlab.com/ee/ci/quick_start/index.html)
-- [ ] [Analyze your code for known vulnerabilities with Static Application Security Testing(SAST)](https://docs.gitlab.com/ee/user/application_security/sast/)
-- [ ] [Deploy to Kubernetes, Amazon EC2, or Amazon ECS using Auto Deploy](https://docs.gitlab.com/ee/topics/autodevops/requirements.html)
-- [ ] [Use pull-based deployments for improved Kubernetes management](https://docs.gitlab.com/ee/user/clusters/agent/)
-- [ ] [Set up protected environments](https://docs.gitlab.com/ee/ci/environments/protected_environments.html)
+All commands are run from the root of the project, from a terminal:
 
-***
+| Command                | Action                                           |
+| :--------------------- | :----------------------------------------------- |
+| `npm install`          | Installs dependencies                            |
+| `npm run dev`          | Starts local dev server at `localhost:3000`      |
+| `npm run build`        | Build your production site to `./dist/`          |
+| `npm run preview`      | Preview your build locally, before deploying     |
+| `npm run astro ...`    | Run CLI commands like `astro add`, `astro check` |
+| `npm run astro --help` | Get help using the Astro CLI                     |
 
-# Editing this README
+To deploy your site to production, check out our [Deploy an Astro Website](https://docs.astro.build/guides/deploy) guide.
 
-When you're ready to make this README your own, just edit this file and use the handy template below (or feel free to structure it however you want - this is just a starting point!). Thank you to [makeareadme.com](https://www.makeareadme.com/) for this template.
+## 👀 Want to learn more?
 
-## Suggestions for a good README
-Every project is different, so consider which of these sections apply to yours. The sections used in the template are suggestions for most open source projects. Also keep in mind that while a README can be too long and detailed, too long is better than too short. If you think your README is too long, consider utilizing another form of documentation rather than cutting out information.
+Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
 
-## Name
-Choose a self-explaining name for your project.
+## Customize This Theme
 
-## Description
-Let people know what your project can do specifically. Provide context and add a link to any reference visitors might be unfamiliar with. A list of Features or a Background subsection can also be added here. If there are alternatives to your project, this is a good place to list differentiating factors.
+### Site metadata
 
-## Badges
-On some READMEs, you may see small images that convey metadata, such as whether or not all the tests are passing for the project. You can use Shields to add some to your README. Many services also have instructions for adding a badge.
+`src/config.ts` contains several data objects that describe metadata about your site like title, description, default language, and Open Graph details. You can customize these to match your project.
 
-## Visuals
-Depending on what you are making, it can be a good idea to include screenshots or even a video (you'll frequently see GIFs rather than actual videos). Tools like ttygif can help, but check out Asciinema for a more sophisticated method.
+### CSS styling
 
-## Installation
-Within a particular ecosystem, there may be a common way of installing things, such as using Yarn, NuGet, or Homebrew. However, consider the possibility that whoever is reading your README is a novice and would like more guidance. Listing specific steps helps remove ambiguity and gets people to using your project as quickly as possible. If it only runs in a specific context like a particular programming language version or operating system or has dependencies that have to be installed manually, also add a Requirements subsection.
+The theme's look and feel is controlled by a few key variables that you can customize yourself. You'll find them in the `src/styles/theme.css` CSS file.
 
-## Usage
-Use examples liberally, and show the expected output if you can. It's helpful to have inline the smallest example of usage that you can demonstrate, while providing links to more sophisticated examples if they are too long to reasonably include in the README.
+If you've never worked with CSS variables before, give [MDN's guide on CSS variables](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties) a quick read.
 
-## Support
-Tell people where they can go to for help. It can be any combination of an issue tracker, a chat room, an email address, etc.
+This theme uses a "cool blue" accent color by default. To customize this for your project, change the `--theme-accent` variable to whatever color you'd like:
 
-## Roadmap
-If you have ideas for releases in the future, it is a good idea to list them in the README.
+```diff
+/* src/styles/theme.css */
+:root {
+  color-scheme: light;
+-  --theme-accent: hsla(var(--color-blue), 1);
++  --theme-accent: hsla(var(--color-red), 1);   /* or: hsla(#FF0000, 1); */
+```
 
-## Contributing
-State if you are open to contributions and what your requirements are for accepting them.
+## Page metadata
 
-For people who want to make changes to your project, it's helpful to have some documentation on how to get started. Perhaps there is a script that they should run or some environment variables that they need to set. Make these steps explicit. These instructions could also be useful to your future self.
+Astro uses frontmatter in Markdown pages to choose layouts and pass properties to those layouts. If you are using the default layout, you can customize the page in many different ways to optimize SEO and other things. For example, you can use the `title` and `description` properties to set the document title, meta title, meta description, and Open Graph description.
 
-You can also document commands to lint the code or run tests. These steps help to ensure high code quality and reduce the likelihood that the changes inadvertently break something. Having instructions for running tests is especially helpful if it requires external setup, such as starting a Selenium server for testing in a browser.
+```markdown
+---
+title: Example title
+description: Really cool docs example that uses Astro
+layout: ../../layouts/MainLayout.astro
+---
 
-## Authors and acknowledgment
-Show your appreciation to those who have contributed to the project.
+# Page content...
+```
 
-## License
-For open source projects, say how it is licensed.
+For more SEO related properties, look at `src/components/HeadSEO.astro`
 
-## Project status
-If you have run out of energy or time for your project, put a note at the top of the README saying that development has slowed down or stopped completely. Someone may choose to fork your project or volunteer to step in as a maintainer or owner, allowing your project to keep going. You can also make an explicit request for maintainers.
+### Sidebar navigation
+
+The sidebar navigation is controlled by the `SIDEBAR` variable in your `src/config.ts` file. You can customize the sidebar by modifying this object. A default, starter navigation has already been created for you.
+
+```ts
+export const SIDEBAR = {
+  en: [
+    { text: "Section Header", header: true },
+    { text: "Introduction", link: "en/introduction" },
+    { text: "Page 2", link: "en/page-2" },
+    { text: "Page 3", link: "en/page-3" },
+
+    { text: "Another Section", header: true },
+    { text: "Page 4", link: "en/page-4" },
+  ],
+};
+```
+
+Note the top-level `en` key: This is needed for multi-language support. You can change it to whatever language you'd like, or add new languages as you go. More details on this below.
+
+### Multiple Languages support
+
+The Astro docs template supports multiple languages out of the box. The default theme only shows `en` documentation, but you can enable multi-language support features by adding a second language to your project.
+
+To add a new language to your project, you'll want to extend the current `src/content/docs/[lang]/...` layout:
+
+```diff
+ 📂 src/content/docs
+ ┣ 📂 en
+ ┃ ┣ 📜 page-1.md
+ ┃ ┣ 📜 page-2.md
+ ┃ ┣ 📜 page-3.astro
++ ┣ 📂 es
++ ┃ ┣ 📜 page-1.md
++ ┃ ┣ 📜 page-2.md
++ ┃ ┣ 📜 page-3.astro
+```
+
+You'll also need to add the new language name to the `KNOWN_LANGUAGES` map in your `src/config.ts` file. This will enable your new language switcher in the site header.
+
+```diff
+// src/config.ts
+export const KNOWN_LANGUAGES = {
+  English: 'en',
++  Spanish: 'es',
+};
+```
+
+Last step: you'll need to add a new entry to your sidebar, to create the table of contents for that language. While duplicating every page might not sound ideal to everyone, this extra control allows you to create entirely custom content for every language.
+
+> Make sure the sidebar `link` value points to the correct language!
+
+```diff
+// src/config.ts
+export const SIDEBAR = {
+  en: [
+    { text: 'Section Header', header: true, },
+    { text: 'Introduction', link: 'en/introduction' },
+    // ...
+  ],
++  es: [
++    { text: 'Encabezado de sección', header: true, },
++    { text: 'Introducción', link: 'es/introduction' },
++    // ...
++  ],
+};
+
+// ...
+```
+
+If you plan to use Spanish as the default language, you just need to modify the redirect path in `src/pages/index.astro`:
+
+```diff
+<script>
+- window.location.pathname = `/en/introduction`;
++ window.location.pathname = `/es/introduction`;
+</script>
+```
+
+You can also remove the above script and write a landing page in Spanish instead.
+
+### What if I don't plan to support multiple languages?
+
+That's totally fine! Not all projects need (or can support) multiple languages. You can continue to use this theme without ever adding a second language.
+
+If that single language is not English, you can just replace `en` in directory layouts and configurations with the preferred language.
+
+### Search (Powered by Algolia)
+
+[Algolia](https://www.algolia.com/) offers a free service to qualified open source projects called [DocSearch](https://docsearch.algolia.com/). If you are accepted to the DocSearch program, provide your API Key & index name in `src/config.ts` and a search box will automatically appear in your site header.
+
+Note that Aglolia and Astro are not affiliated. We have no say over acceptance to the DocSearch program.
+
+If you'd prefer to remove Algolia's search and replace it with your own, check out the `src/components/Header.astro` component to see where the component is added.
