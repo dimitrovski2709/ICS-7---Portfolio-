@@ -1,6 +1,6 @@
 export const SITE = {
-	title: 'Documentation',
-	description: 'Your website description.',
+	title: "Angel Angelov's Portfolio",
+	description: '',
 	defaultLanguage: 'en-us',
 } as const;
 
