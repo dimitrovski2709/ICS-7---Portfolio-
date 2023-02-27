@@ -9,5 +9,5 @@ export default defineConfig({
 	],
 	outDir: 'public',
 	publicDir: 'static',
-	site: `https://astro.build`,
+	site: `https://angelovdev.gitlab.io/portfolio-cs7`,
 });
