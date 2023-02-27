@@ -7,5 +7,7 @@ export default defineConfig({
 		// Enable Preact to support Preact JSX components.
 		preact(),
 	],
+	outDir: 'public',
+	publicDir: 'static',
 	site: `https://astro.build`,
 });
