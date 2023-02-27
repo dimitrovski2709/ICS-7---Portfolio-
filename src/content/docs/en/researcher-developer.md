@@ -1,36 +1,17 @@
 ---
-title: 'Page 3'
-description: 'Lorem ipsum dolor sit amet - 3'
+title: 'L02 Researcher and Developer'
 ---
 
-This is a fully-featured page, written in Markdown!
+The student **shows** to be able to **research** and **develop** (r&d) **innovative solutions** in an **open and complex setting**.
 
-## Section A
-
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**. Sed ut tortor _suscipit_, posuere ante id, vulputate urna. Pellentesque molestie aliquam dui sagittis aliquet. Sed sed felis convallis, lacinia lorem sit amet, fermentum ex. Etiam hendrerit mauris at elementum egestas. Vivamus id gravida ante. Praesent consectetur fermentum turpis, quis blandit tortor feugiat in. Aliquam erat volutpat. In elementum purus et tristique ornare. Suspendisse sollicitudin dignissim est a ultrices. Pellentesque sed ipsum finibus, condimentum metus eget, sagittis elit. Sed id lorem justo. Vivamus in sem ac mi molestie ornare.
-
-## Section B
-
-Nam quam dolor, pellentesque sed odio euismod, feugiat tempus tellus. Quisque arcu velit, ultricies in faucibus sed, ultrices ac enim. Nunc eget dictum est. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ex nisi, egestas mollis ultricies ut, laoreet suscipit libero. Nam condimentum molestie turpis. Sed vestibulum sagittis congue. Maecenas tristique enim et tincidunt tempor. Curabitur ac scelerisque nulla, in malesuada libero. Praesent eu tempus odio. Pellentesque aliquam ullamcorper quam at gravida. Sed non fringilla mauris. Aenean sit amet ultrices erat. Vestibulum congue venenatis tortor, nec suscipit tortor. Aenean pellentesque mauris eget tortor tincidunt pharetra.
-
-## Section C
-
-```markdown
----
-title: Markdown Page!
-lang: en
-layout: ~/layouts/MainLayout.astro
----
-
-# Markdown example
-
-This is a fully-featured page, written in Markdown!
-
-## Section A
-
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**. Sed ut tortor _suscipit_, posuere ante id, vulputate urna. Pellentesque molestie aliquam dui sagittis aliquet. Sed sed felis convallis, lacinia lorem sit amet, fermentum ex. Etiam hendrerit mauris at elementum egestas. Vivamus id gravida ante. Praesent consectetur fermentum turpis, quis blandit tortor feugiat in. Aliquam erat volutpat. In elementum purus et tristique ornare. Suspendisse sollicitudin dignissim est a ultrices. Pellentesque sed ipsum finibus, condimentum metus eget, sagittis elit. Sed id lorem justo. Vivamus in sem ac mi molestie ornare.
-
-## Section B
-
-Nam quam dolor, pellentesque sed odio euismod, feugiat tempus tellus. Quisque arcu velit, ultricies in faucibus sed, ultrices ac enim. Nunc eget dictum est. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ex nisi, egestas mollis ultricies ut, laoreet suscipit libero. Nam condimentum molestie turpis. Sed vestibulum sagittis congue. Maecenas tristique enim et tincidunt tempor. Curabitur ac scelerisque nulla, in malesuada libero. Praesent eu tempus odio. Pellentesque aliquam ullamcorper quam at gravida. Sed non fringilla mauris. Aenean sit amet ultrices erat. Vestibulum congue venenatis tortor, nec suscipit tortor. Aenean pellentesque mauris eget tortor tincidunt pharetra.
-```
+- "**_shows_**" means that the student participates in research projects and builds up a portfolio with professional products and results of learning activities, including explanation of important aspects and validation of the work, and an evaluation and reflection of the personal learning and learning outcome.
+- "**_research_**" means:
+  - defining a research approach in a structured way with defined research questions, a combination and triangulation of diverse research strategies, and methodical approach to answer research questions with defined strategies (note: add your project research approach here with LO2, but also mention it in your research overview for LO3 with your overall evaluation and reflection).
+  - accounting for choices and alternatives during a research or project execution.
+  - planning and performing the transfer of r&d outcomes to client, stakeholders, target groups, community and society (note: give transfer activities, planning and products here with LO2, but mention and evaluate the relevant aspects for your collaboration and communication in LO3).
+- "**_development_**" means:
+  - technical development skills,
+  - learning and using new technology or new technological concepts in development
+  - project management skills as a developer and innovator towards peers, stakeholders, target groups, experts (note: also mention and evaluate the relevance for LO3 collaboration and communication, and management)
+- "**_innovative solutions_**" means that you can explain how your solution contributes in a new way to the problem or wish from stakeholders and target groups. This includes considerations on technical, functional, organizational, societal, sustainable, and ethical aspects.
+- "**_open and complex setting_**" means that you can explain how a problem or project has evolved from an undefined scope and end result to a structured but flexible route and a defined innovative solution, including your contributions to this process.
