@@ -9,5 +9,6 @@ export default defineConfig({
 	],
 	outDir: 'public',
 	publicDir: 'static',
-	site: `https://angelovdev.gitlab.io/portfolio-cs7`,
+	site: `https://angelovdev.gitlab.io`,
+	base: '/portfolio-cs7',
 });
