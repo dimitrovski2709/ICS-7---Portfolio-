@@ -5,7 +5,7 @@ before_script:
   - corepack enable
   - corepack prepare pnpm@latest --activate
   - pnpm config set store-dir .pnpm-store
-  - pnpm ci
+  - pnpm install
 cache:
   key:
     files:
