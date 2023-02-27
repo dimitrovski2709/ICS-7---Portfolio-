@@ -25,11 +25,22 @@ export type Sidebar = Record<
 >;
 export const SIDEBAR: Sidebar = {
 	en: {
-		'Section Header': [
+		Portfolio: [
 			{ text: 'Introduction', link: 'en/introduction' },
-			{ text: 'Page 2', link: 'en/page-2' },
-			{ text: 'Page 3', link: 'en/page-3' },
+			{ text: 'LO1 The security specialist', link: 'en/security-specialist' },
+			{
+				text: 'LO2 The researcher and developer',
+				link: 'en/researcher-developer',
+			},
+			{
+				text: 'LO3 The security professional',
+				link: 'en/security-professional',
+			},
 		],
-		'Another Section': [{ text: 'Page 4', link: 'en/page-4' }],
+		Specialization: [
+			{ text: 'Orientation', link: 'en/specialization/orientation' },
+		],
+		'Group Project': [{ text: 'Introduction', link: 'en/group/introduction' }],
+		'Personal Project': [{ text: 'Ideas', link: 'en/personal/ideas' }],
 	},
 };
