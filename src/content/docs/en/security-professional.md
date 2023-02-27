@@ -2,7 +2,7 @@
 title: 'L03 Security Professional'
 ---
 
-[test internal link](introduction)
+[test internal link](/portfolio-cs7/en/introduction)
 
 The student **shows** to have practiced and improved **professional skills** as a security specialist, and as a researcher and developer.
 
