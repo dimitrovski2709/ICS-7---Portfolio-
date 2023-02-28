@@ -2,6 +2,17 @@
 title: 'L03 Security Professional'
 ---
 
+## Goals
+
+- Be more proactive
+- Be present on all group days at school
+
+## Evaluation and reflection
+
+TODO
+
+---
+
 The student **shows** to have practiced and improved **professional skills** as a security specialist, and as a researcher and developer.
 
 - "**_shows_**" means that the student can point out and explain how you have practiced your professional skills, with an evaluation and reflection on the products and activities for these professional skills.
