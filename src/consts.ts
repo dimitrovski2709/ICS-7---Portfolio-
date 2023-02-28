@@ -40,16 +40,20 @@ export const SIDEBAR: Sidebar = {
 		Specialization: [
 			{ text: 'Introduction', link: 'specialization/introduction' },
 			{
-				text: 'How to ensure files are only accessible by allowed parties',
+				text: 'Confidentiality',
 				link: 'specialization/confidentiality',
 			},
 			{
-				text: 'How to ensure files are always available',
+				text: 'Availability',
 				link: 'specialization/availability',
 			},
 			{
 				text: 'Endpoint security',
 				link: 'specialization/endpoint',
+			},
+			{
+				text: 'Design',
+				link: 'specialization/design',
 			},
 		],
 		'Group Project': [{ text: 'Introduction', link: 'group/introduction' }],
