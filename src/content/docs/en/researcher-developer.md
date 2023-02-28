@@ -2,6 +2,37 @@
 title: 'L02 Researcher and Developer'
 ---
 
+## Group project
+
+### Sprint 0
+
+- Brainstorming on [ideas for a project](https://stichtingfontys.sharepoint.com/:w:/r/sites/AI-FANATICS/Gedeelde%20documenten/General/Ideas.docx?d=wdec9a8f3d99b4089b15cb17f35fd8948&csf=1&web=1&e=2fgzuR). I proposed 2 ideas (WAF and phishing campaign generator) both of which were picked in the top 3 when all group members voted.
+- Sharing resources that I found related to the final group project idea we picked - blue team evasion techniques, such as the article [Legislation in Hesse and Hamburg regarding automated data analysis for the prevention of criminal acts is unconstitutional](https://www.bundesverfassungsgericht.de/SharedDocs/Pressemitteilungen/EN/2023/bvg23-018.html)
+- Contributing to the [project plan](https://stichtingfontys.sharepoint.com/:w:/r/sites/AI-FANATICS/Gedeelde%20documenten/General/Project%20Plan%20Template%20-%20English%20v1.0.docx?d=we80ddbde1c33415f8f5e73270dac691a&csf=1&web=1&e=ZgezJb) and ideas for the project such as studying current anomaly detection techniques and products, testing strategy inside the project plan, and reviewing it, proofreading it and changing parts that could be improved.
+- Scheduling meetings
+
+#### Retrospective
+
+Sprint 0 was messy but that was expected. There were issues with project choice in the beginning as the idea was changed the last moment but we organized a meeting with the stakeholder and settled on an idea that most group members agreed on.
+
+## Personal project
+
+### Sprint 0
+
+- Brainstorming for ideas for personal project that are doable in 1 day a week
+
+#### Retrospective
+
+Generally went well.
+
+I couldn't think of many ideas in the beginning and wanted to use my personal project day for a bigger specialization but Martin convinced me otherwise and gave me some inspiring ideas and past projects he has seen on a meeting we had.
+
+## Evaluation and reflection
+
+TODO
+
+---
+
 The student **shows** to be able to **research** and **develop** (r&d) **innovative solutions** in an **open and complex setting**.
 
 - "**_shows_**" means that the student participates in research projects and builds up a portfolio with professional products and results of learning activities, including explanation of important aspects and validation of the work, and an evaluation and reflection of the personal learning and learning outcome.
