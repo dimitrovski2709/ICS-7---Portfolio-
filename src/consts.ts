@@ -64,6 +64,10 @@ export const SIDEBAR: Sidebar = {
 		'Personal Project': [
 			{ text: 'Lock picking', link: 'personal/lockpicking' },
 			{ text: 'Car unlock without key', link: 'personal/car-unlock' },
+			{
+				text: 'Evade camera facial detection at night',
+				link: 'personal/evade-facial-detection',
+			},
 		],
 	},
 };
