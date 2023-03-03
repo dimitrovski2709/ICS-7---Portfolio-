@@ -112,6 +112,16 @@ const currentPage = Astro.url.pathname;
 				display: block;
 				top: 2rem;
 			}
+
+			a[href$='.pdf']::after {
+				content: 'PDF';
+				background-color: rgba(244, 15, 2);
+				color: white;
+				font-size: 0.6em;
+				border-radius: 100vh;
+				padding: 0.2em 0.6em;
+				vertical-align: super;
+			}
 		</style>
 	</head>
 

@@ -26,9 +26,15 @@ On the other side, there are red teamers that try to remain undetected, and what
 
 Scrum, as it offers the most flexibility, which is important for a topic we don't know much about. Each sprint will consist of 3 weeks.
 
+## Tooling
+
+- Netlab
+- Google Colab
+- Trello
+
 ## End products
 
-- Project plan
+- [Project plan](/portfolio-cs7/project-plan.pdf)
 - Research document(s)
 - AI prototype
 - Manual

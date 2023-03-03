@@ -56,7 +56,11 @@ export const SIDEBAR: Sidebar = {
 				link: 'specialization/design',
 			},
 		],
-		'Group Project': [{ text: 'Introduction', link: 'group/introduction' }],
+		'Group Project': [
+			{ text: 'Initial ideas', link: 'group/ideas' },
+			{ text: 'Introduction', link: 'group/introduction' },
+			{ text: 'Project Plan (v1)', link: '../project-plan.pdf' },
+		],
 		'Personal Project': [
 			{ text: 'Lock picking', link: 'personal/lockpicking' },
 			{ text: 'Car unlock without key', link: 'personal/car-unlock' },
