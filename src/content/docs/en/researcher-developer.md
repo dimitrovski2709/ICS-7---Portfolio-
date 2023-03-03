@@ -6,9 +6,9 @@ title: 'L02 Researcher and Developer'
 
 ### Sprint 0
 
-- Brainstorming on [ideas for a project](https://stichtingfontys.sharepoint.com/:w:/r/sites/AI-FANATICS/Gedeelde%20documenten/General/Ideas.docx?d=wdec9a8f3d99b4089b15cb17f35fd8948&csf=1&web=1&e=2fgzuR). I proposed 2 ideas (WAF and phishing campaign generator) both of which were picked in the top 3 when all group members voted.
+- Brainstorming on [ideas for a project](/portfolio-cs7/en/group/ideas). I proposed 2 ideas (WAF and phishing campaign generator) both of which were picked in the top 3 when all group members voted.
 - Sharing resources that I found related to the final group project idea we picked - blue team evasion techniques, such as the article [Legislation in Hesse and Hamburg regarding automated data analysis for the prevention of criminal acts is unconstitutional](https://www.bundesverfassungsgericht.de/SharedDocs/Pressemitteilungen/EN/2023/bvg23-018.html)
-- Contributing to the [project plan](https://stichtingfontys.sharepoint.com/:w:/r/sites/AI-FANATICS/Gedeelde%20documenten/General/Project%20Plan%20Template%20-%20English%20v1.0.docx?d=we80ddbde1c33415f8f5e73270dac691a&csf=1&web=1&e=ZgezJb) and ideas for the project such as studying current anomaly detection techniques and products, testing strategy inside the project plan, and reviewing it, proofreading it and changing parts that could be improved.
+- Contributing to the [project plan](/portfolio-cs7/project-plan.pdf) and ideas for the project such as studying current anomaly detection techniques and products, testing strategy inside the project plan, and reviewing it, proofreading it and changing parts that could be improved.
 - Scheduling meetings
 
 #### Retrospective
