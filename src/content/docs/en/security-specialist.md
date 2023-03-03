@@ -2,7 +2,7 @@
 title: 'LO1 Security Specialist'
 ---
 
-I will be specializing in secure development as I think that is an important part of software development that is often missed.
+I will be specializing in **secure development** as I think that is an important part of software development that is often missed.
 
 I would like to learn more about authentication as well as to learn more about encryption, specifically client side encryption. I plan on doing that through my [secure file storage specialization project](/portfolio-cs7/en/specialization/introduction)
 
