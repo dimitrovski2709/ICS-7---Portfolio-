@@ -13,24 +13,36 @@ I would like to learn more about authentication as well as to learn more about e
 - [What are the possible ways to improve endpoint security from inside the limited access of a browser](/portfolio-cs7/en/specialization/endpoint)
 - [Design](/portfolio-cs7/en/specialization/design)
 
-## Sprint 0
+## Sprints
+
+### Sprint 0
 
 <figure>
   <img src="/specialization/sprint0.png" loading="lazy">
   <figcaption>Specialization End of Sprint 0 Report</figcaption>
 </figure>
 
-### Retrospective
+#### Retrospective
 
-## Sprint 1
+### Sprint 1
 
-## Sprint 2
+#### Retrospective
 
-## Sprint 3
+### Sprint 2
 
-## Sprint 4
+#### Retrospective
 
-## Sprint 5
+### Sprint 3
+
+#### Retrospective
+
+### Sprint 4
+
+#### Retrospective
+
+### Sprint 5
+
+#### Retrospective
 
 ## Evaluation and reflection
 
