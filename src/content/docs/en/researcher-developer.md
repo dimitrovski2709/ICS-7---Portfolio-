@@ -11,6 +11,11 @@ title: 'L02 Researcher and Developer'
 - Contributing to the [project plan](/portfolio-cs7/project-plan.pdf) and ideas for the project such as studying current anomaly detection techniques and products, testing strategy inside the project plan, and reviewing it, proofreading it and changing parts that could be improved.
 - Scheduling meetings
 
+<figure>
+  <img src="/group/sprint0.png" loading="lazy">
+  <figcaption>Group End of Sprint 0 Report</figcaption>
+</figure>
+
 #### Retrospective
 
 Sprint 0 was messy but that was expected. There were issues with project choice in the beginning as the idea was changed the last moment but we organized a meeting with the stakeholder and settled on an idea that most group members agreed on.
@@ -20,6 +25,11 @@ Sprint 0 was messy but that was expected. There were issues with project choice 
 ### Sprint 0
 
 - Brainstorming for ideas for personal project that are doable in 1 day a week
+
+<figure>
+  <img src="/personal/sprint0.png" loading="lazy">
+  <figcaption>Personal End of Sprint 0 Report</figcaption>
+</figure>
 
 #### Retrospective
 
