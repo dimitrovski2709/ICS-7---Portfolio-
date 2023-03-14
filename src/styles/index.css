@@ -410,3 +410,8 @@ h2.heading {
 .current-header-link a {
 	color: var(--theme-text);
 }
+
+figcaption {
+	text-align: center;
+	font-style: italic;
+}
