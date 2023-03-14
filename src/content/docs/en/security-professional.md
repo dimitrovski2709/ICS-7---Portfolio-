@@ -4,8 +4,17 @@ title: 'L03 Security Professional'
 
 ## Goals
 
-- Be more proactive
+- Be more proactive (ask others if I am)
 - Be present on all group days at school
+- Do presentations (personal and specialization related but also group related, if possible)
+- Knowledge sharing (share knowledge with presentation attendees, group members and specialization members)
+
+## Done
+
+- Created automation for the Trello board to help make the team's task management easier
+- Set up my own Trello to work in sprints
+- Scheduling meetings with client
+- Attending project group days and specialization classes/meetings
 
 ## Events
 
