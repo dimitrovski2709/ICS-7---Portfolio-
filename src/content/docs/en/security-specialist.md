@@ -18,7 +18,7 @@ I would like to learn more about authentication as well as to learn more about e
 ### Sprint 0
 
 <figure>
-  <img src="/specialization/sprint0.png" loading="lazy">
+  <img src="/portfolio-cs7/specialization/sprint0.png" loading="lazy">
   <figcaption>Specialization End of Sprint 0 Report</figcaption>
 </figure>
 

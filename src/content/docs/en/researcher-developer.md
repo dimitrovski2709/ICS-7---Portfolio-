@@ -12,7 +12,7 @@ title: 'L02 Researcher and Developer'
 - Scheduling meetings
 
 <figure>
-  <img src="/group/sprint0.png" loading="lazy">
+  <img src="/portfolio-cs7/group/sprint0.png" loading="lazy">
   <figcaption>Group End of Sprint 0 Report</figcaption>
 </figure>
 
@@ -51,7 +51,7 @@ Sprint 0 was messy but that was expected. There were issues with project choice 
 - Brainstorming for ideas for personal project that are doable in 1 day a week
 
 <figure>
-  <img src="/personal/sprint0.png" loading="lazy">
+  <img src="/portfolio-cs7/personal/sprint0.png" loading="lazy">
   <figcaption>Personal End of Sprint 0 Report</figcaption>
 </figure>
 
