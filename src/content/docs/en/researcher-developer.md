@@ -20,6 +20,30 @@ title: 'L02 Researcher and Developer'
 
 Sprint 0 was messy but that was expected. There were issues with project choice in the beginning as the idea was changed the last moment but we organized a meeting with the stakeholder and settled on an idea that most group members agreed on.
 
+### Sprint 1
+
+- Answering the question "Does the technology register personal data? If yes, what personal data?" when it comes to the technology impact of our project.
+- Giving sources for the "In what way is the direct and indirect energy use of this technology taken into account?" of TICT
+- Researched available products and found MITRE ATLAS and an AI red teaming company that I send an email with questions to (available product analysis and expert interview)
+
+#### Retrospective
+
+### Sprint 2
+
+#### Retrospective
+
+### Sprint 3
+
+#### Retrospective
+
+### Sprint 4
+
+#### Retrospective
+
+### Sprint 5
+
+#### Retrospective
+
 ## Personal project
 
 ### Sprint 0
@@ -36,6 +60,26 @@ Sprint 0 was messy but that was expected. There were issues with project choice 
 Generally went well.
 
 I couldn't think of many ideas in the beginning and wanted to use my personal project day for a bigger specialization but Martin convinced me otherwise and gave me some inspiring ideas and past projects he has seen on a meeting we had.
+
+### Sprint 1
+
+#### Retrospective
+
+### Sprint 2
+
+#### Retrospective
+
+### Sprint 3
+
+#### Retrospective
+
+### Sprint 4
+
+#### Retrospective
+
+### Sprint 5
+
+#### Retrospective
 
 ## Evaluation and reflection
 
