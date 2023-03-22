@@ -7,8 +7,7 @@ export default defineConfig({
 		// Enable Preact to support Preact JSX components.
 		preact(),
 	],
-	outDir: 'public',
-	publicDir: 'static',
-	site: `https://angelovdev.gitlab.io`,
+
+	site: `https://dimitrovski2709.gitlab.io`,
 	base: '/portfolio-cs7',
 });
