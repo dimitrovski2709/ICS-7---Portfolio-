@@ -38,7 +38,7 @@ export const SIDEBAR: Sidebar = {
 			},
 		],
 		Specialization: [
-			{ text: 'Introduction', link: 'specialization/introduction' },
+			{ text: 'test123', link: 'specialization/introduction' },
 			{
 				text: 'Confidentiality',
 				link: 'specialization/confidentiality',
