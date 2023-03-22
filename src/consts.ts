@@ -1,5 +1,5 @@
 export const SITE = {
-	title: "Angel Angelov's Portfolio",
+	title: "Lazar Dimitrovski's Portfolio",
 	description: '',
 	defaultLanguage: 'en-us',
 } as const;
