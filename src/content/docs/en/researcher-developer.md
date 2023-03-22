@@ -6,25 +6,14 @@ title: 'L02 Researcher and Developer'
 
 ### Sprint 0
 
-- Brainstorming on [ideas for a project](/portfolio-cs7/en/group/ideas). I proposed 2 ideas (WAF and phishing campaign generator) both of which were picked in the top 3 when all group members voted.
-- Sharing resources that I found related to the final group project idea we picked - blue team evasion techniques, such as the article [Legislation in Hesse and Hamburg regarding automated data analysis for the prevention of criminal acts is unconstitutional](https://www.bundesverfassungsgericht.de/SharedDocs/Pressemitteilungen/EN/2023/bvg23-018.html)
-- Contributing to the [project plan](/portfolio-cs7/project-plan.pdf) and ideas for the project such as studying current anomaly detection techniques and products, testing strategy inside the project plan, and reviewing it, proofreading it and changing parts that could be improved.
-- Scheduling meetings
 
-<figure>
-  <img src="/portfolio-cs7/group/sprint0.png" loading="lazy">
-  <figcaption>Group End of Sprint 0 Report</figcaption>
-</figure>
+
 
 #### Retrospective
 
-Sprint 0 was messy but that was expected. There were issues with project choice in the beginning as the idea was changed the last moment but we organized a meeting with the stakeholder and settled on an idea that most group members agreed on.
 
 ### Sprint 1
 
-- Answering the question "Does the technology register personal data? If yes, what personal data?" when it comes to the technology impact of our project.
-- Giving sources for the "In what way is the direct and indirect energy use of this technology taken into account?" of TICT
-- Researched available products and found MITRE ATLAS and an AI red teaming company that I send an email with questions to (available product analysis and expert interview)
 
 #### Retrospective
 
@@ -50,16 +39,10 @@ Sprint 0 was messy but that was expected. There were issues with project choice 
 
 - Brainstorming for ideas for personal project that are doable in 1 day a week
 
-<figure>
-  <img src="/portfolio-cs7/personal/sprint0.png" loading="lazy">
-  <figcaption>Personal End of Sprint 0 Report</figcaption>
-</figure>
 
 #### Retrospective
 
-Generally went well.
 
-I couldn't think of many ideas in the beginning and wanted to use my personal project day for a bigger specialization but Martin convinced me otherwise and gave me some inspiring ideas and past projects he has seen on a meeting we had.
 
 ### Sprint 1
 

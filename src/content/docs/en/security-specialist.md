@@ -2,24 +2,16 @@
 title: 'LO1 Security Specialist'
 ---
 
-I will be specializing in **secure development** as I think that is an important part of software development that is often missed.
-
-I would like to learn more about authentication as well as to learn more about encryption, specifically client side encryption. I plan on doing that through my [secure file storage specialization project](/portfolio-cs7/en/specialization/introduction)
-
 ## Work (in progress)
 
-- [How to ensure files are only accessible by allowed parties](/portfolio-cs7/en/specialization/confidentiality)
-- [How to ensure files are always available](/portfolio-cs7/en/specialization/availability)
-- [What are the possible ways to improve endpoint security from inside the limited access of a browser](/portfolio-cs7/en/specialization/endpoint)
-- [Design](/portfolio-cs7/en/specialization/design)
 
 ## Sprints
 
 ### Sprint 0
 
 <figure>
-  <img src="/portfolio-cs7/specialization/sprint0.png" loading="lazy">
-  <figcaption>Specialization End of Sprint 0 Report</figcaption>
+  <img src="" loading="lazy">
+  <figcaption>test123</figcaption>
 </figure>
 
 #### Retrospective

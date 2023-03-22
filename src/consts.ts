@@ -39,35 +39,13 @@ export const SIDEBAR: Sidebar = {
 		],
 		Specialization: [
 			{ text: 'test123', link: 'specialization/introduction' },
-			{
-				text: 'Confidentiality',
-				link: 'specialization/confidentiality',
-			},
-			{
-				text: 'Availability',
-				link: 'specialization/availability',
-			},
-			{
-				text: 'Endpoint security',
-				link: 'specialization/endpoint',
-			},
-			{
-				text: 'Design',
-				link: 'specialization/design',
-			},
 		],
 		'Group Project': [
-			{ text: 'Initial ideas', link: 'group/ideas' },
 			{ text: 'Introduction', link: 'group/introduction' },
 			{ text: 'Project Plan (v1)', link: '../project-plan.pdf' },
 		],
 		'Personal Project': [
-			{ text: 'Lock picking', link: 'personal/lockpicking' },
-			{ text: 'Car unlock without key', link: 'personal/car-unlock' },
-			{
-				text: 'Evade camera facial detection at night',
-				link: 'personal/evade-facial-detection',
-			},
+			{ text: 'Malware Process Injection', link: 'personal/malware-process-injection' },
 		],
 	},
 };
