@@ -1,6 +1,8 @@
 ---
 title: 'LO1 Security Specialist'
+“The student shows to have the expertise and competence of a self-chosen professional security role.”
 ---
+being a security specialist is a critical role for any organization operating in today’s digital age, as they are responsible for ensuring the safety and protection of valuable assets, data, and information from a range of security threats.
 
 ## Work (in progress)
 
